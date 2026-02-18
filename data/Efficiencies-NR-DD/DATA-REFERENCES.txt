@@ -1,0 +1,89 @@
+For all the experiments, the best-fit DM event rate is zero.    
+
+------
+- LZ -
+------
+xenon, fiducial mass = 5,475 ton
+ 
+ 
+ *** LOW RECOIL ENERGY ***
+ 
+Exposure           fid  mass        days operation     N_obs      B_exp (post-fit)      E_rec (>1% eff) 10% avg      Ref.
+5.7 ton yr         5.09 ± 0.15 t    546 days           19         21.6 ± 4.25           [1, 6] keV                   https://arxiv.org/pdf/2512.08065
+ 
+NOTE: The region-of-interest (ROI) is restricted to SS events where the S1 is observed in at least three PMTs with the S1c size that lies between 2 and 15 phd.
+16% loss of exposure, ... 417 live days remain
+
+Total: 5.7 ton yr in 417 days
+  
+
+ *** HIGH RECOIL ENERGY ***
+
+Exposure           fid  mass      days operation     N_obs      B_exp (post-fit)      E_rec (>50% eff) 95% avg      Ref.
+3.3 ton yr         5.5 t          220 days           1220       1210 ± 91             [5.4, 55] keV                 https://arxiv.org/pdf/2410.17036 	
+0.9 ton yr         5.5 t          60 days            335        333 ± 17              [5.4, 55] keV                 https://arxiv.org/pdf/2207.03764
+
+
+
+--------
+XENONnT
+--------
+xenon, fiducial mass = 4.87 to 5.01 ton
+
+
+ *** LOW RECOIL ENERGY ***
+ 
+Exposure           fid  mass       days operation     N_obs      B_exp (post-fit)      E_rec (ONLY 10% eff!)  Ref.
+SR0 (1.50 t·y)     4.98 t          110.2 days         583        586 ± 28              [0.5, 5.0] keV         https://arxiv.org/pdf/2601.11296
+SR1 (2.44 t·y)     5.01 t          177.8 days         846        858 ± 30              [0.5, 5.0] keV         https://arxiv.org/pdf/2601.11296
+SR2 (3.89 t·y)     4.87 t          291.5 days         1107       1130 ± 30             [0.5, 5.0] keV         https://arxiv.org/pdf/2601.11296
+
+Total: 7.83 ton yr in 579 days
+
+
+ *** HIGH RECOIL ENERGY ***
+ 
+xenon, fiducial mass = 4 to 4.18 ton
+
+Exposure           fid  mass         days operation     N_obs      B_exp (post-fit)      E_rec (>10% eff) 75% avg      Ref.             
+SR0 (1.09 t.y)     (4.18 ± 0.13) t     95.1 days        152        152 ± 12              [3.3, 60.5] keV               https://arxiv.org/pdf/2303.14729
+SR1a (0.73 t.y)    (4.00 ± 0.15) t     66.6 days        560        550 ± 20              [3.8, 64.1] keV               https://arxiv.org/pdf/2502.18005v1
+SR1b (1.31 t.y)    (4.00 ± 0.15) t     119.9 days       245        239 ± 15              [3.8, 64.1] keV               https://arxiv.org/pdf/2502.18005v1
+
+Total: 3.1 ton yr in 281.6 days
+
+
+
+
+-----------
+PandaX-4T
+-----------
+xenon, fiducial mass = 3.1 to 3.7 ton (3.1 ton I guess)
+
+
+ *** LOW RECOIL ENERGY ***
+
+Exposure           fid  mass       days operation     N_obs      B_exp (post-fit)      E_rec (>90% eff) 95% avg     Ref.
+0.55 ton year      (3.1 ± 0.1) t   64.7               105        95.8±11.3             [0.77, 2.54] keV             https://arxiv.org/pdf/2212.10067
+
+Run0       95 days 
+Run1       164 days 
+
+Total                Exposure             days     N_obs         B_exp                        E_rec (ONLY 10% eff!)      Ref.
+paired (unpaired)    1.2 t.y (1.04)       259      3 (332)       5.1 ± 0.78 (322 ± 16.64)     [0.33, 3] keV              https://arxiv.org/pdf/2507.11930
+
+NOTE: For the paired data, we require the S1 signal to be detected by two or three PMTs, 
+while the US2 data (unpaired or ionization only) must have the number of electrons for an S2 to be between four and eight detected electrons and no S1 signal detected by two or more PMTs in the event window.
+
+
+
+
+ *** HIGH RECOIL ENERGY ***
+
+Exposure            fid  mass         days operation     N_obs      B_exp (post-fit)      E_rec (eff???)       Ref.
+Run0 (0.54 t.y)     (2.38 ± 0.04) t   95                 1117        1082 ± 37            [4, 94] keV          https://arxiv.org/pdf/2408.00664
+Run1 (1.00 t.y)     (2.48 ± 0.05) t   164                1373        1356 ± 43            [3, 103] keV         https://arxiv.org/pdf/2408.00664
+
+NOTE: ... a reduction of approximately 12% of the exposure.
+
+Total: 1.54 ton year in 259 days   N_obs 2490      B_exp 2439 ± 43
